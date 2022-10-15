@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Time",
+            "request": "launch",
+            "mainClass": "Time",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch date",
+            "request": "launch",
+            "mainClass": "date",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello2",
+            "request": "launch",
+            "mainClass": "hello2",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
             "name": "Launch HelloWorld",
             "request": "launch",
             "mainClass": "HelloWorld",
