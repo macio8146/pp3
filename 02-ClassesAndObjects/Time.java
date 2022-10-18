@@ -3,8 +3,7 @@ public class Time {
         int hour, minute, second, current_hour, current_minute, current_second; 
         hour = 14;
         minute = 35;
-        second = 43;
-        
+        second = 34;
 
         double secondsPast = hour * 60 * 60 + minute * 60 + second;
 
@@ -24,13 +23,12 @@ public class Time {
         currentTimeInSeconds = current_hour * 60 * 60 + current_minute * 60 + current_second;
         differenceInTime = currentTimeInSeconds - secondsPast;
 
-
         System.out.print("I spent on this task: ");
         System.out.print((int) differenceInTime/(60 * 60));
-        System.out.print("hours");
+        System.out.print(" hours");
         System.out.print(", ");
         System.out.print((int)(differenceInTime % (60 * 60))/60);
-        System.out.print("minutes");
+        System.out.print(" minutes");
         System.out.print(" and ");
         System.out.print((int) (differenceInTime % 60 % 60));
         System.out.println(" Seconds");
