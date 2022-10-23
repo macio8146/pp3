@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Counter",
+            "request": "launch",
+            "mainClass": "Counter",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rectangle",
+            "request": "launch",
+            "mainClass": "Rectangle",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch lamp",
+            "request": "launch",
+            "mainClass": "lamp",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch books",
+            "request": "launch",
+            "mainClass": "books",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch bankAccount",
+            "request": "launch",
+            "mainClass": "bankAccount",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch smartphone",
+            "request": "launch",
+            "mainClass": "smartphone",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch formatingOutput",
+            "request": "launch",
+            "mainClass": "formatingOutput",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch inchToCm",
+            "request": "launch",
+            "mainClass": "inchToCm",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch scan",
+            "request": "launch",
+            "mainClass": "scan",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
             "name": "Launch Time",
             "request": "launch",
             "mainClass": "Time",
