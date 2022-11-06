@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Studentsgrades2",
+            "request": "launch",
+            "mainClass": "Studentsgrades2",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentGrades",
+            "request": "launch",
+            "mainClass": "StudentGrades",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Room2",
+            "request": "launch",
+            "mainClass": "Room2",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Room",
+            "request": "launch",
+            "mainClass": "Room",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Clock",
+            "request": "launch",
+            "mainClass": "Clock",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch InternetDevice",
+            "request": "launch",
+            "mainClass": "InternetDevice",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculations",
+            "request": "launch",
+            "mainClass": "Calculations",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Converter",
+            "request": "launch",
+            "mainClass": "Converter",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Person",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch SurfaceArea",
+            "request": "launch",
+            "mainClass": "SurfaceArea",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch CinemaTicket",
+            "request": "launch",
+            "mainClass": "CinemaTicket",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
             "name": "Launch Counter",
             "request": "launch",
             "mainClass": "Counter",
