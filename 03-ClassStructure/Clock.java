@@ -101,6 +101,8 @@ public class Clock {
         c1.displayTime();
 
         c1.addOneMinute();
+        c1.displayTime();
+        
         c1.addOneMinute();
     }
 }

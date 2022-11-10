@@ -117,11 +117,13 @@ public class Room {
         displayRoomsReport(rooms);
 
         //c
-        displayRoomsReportSpecifiedBeds(rooms, 3);
+        displayRoomsReportSpecifiedBeds(rooms, 2);
 
         //d
-        r1.checkin("Maciej Jastrzębski");
+        r1.checkin("Maciej Jastrzębski and Ania Stós");
+        r2.checkin("Ania Stós");
         displayRoomsVacantOccupied(rooms);
+        displayRoomsReport(rooms);
 
         //e
         reportVacantBeds(rooms);

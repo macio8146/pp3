@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Product",
+            "request": "launch",
+            "mainClass": "Product",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch DrivingLicence",
+            "request": "launch",
+            "mainClass": "DrivingLicence",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
             "name": "Launch Studentsgrades2",
             "request": "launch",
             "mainClass": "Studentsgrades2",

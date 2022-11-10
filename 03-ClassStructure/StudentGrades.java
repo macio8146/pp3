@@ -102,6 +102,10 @@ public class StudentGrades {
         StudentGrades james = new StudentGrades("James", jamesGrades);
         james.studentRecord();
 
+        double[] aniasGrades = {5.0, 5.0, 5.0};
+        StudentGrades ania = new StudentGrades("Ania Stós", aniasGrades);
+        ania.studentRecord();
+
         StudentGrades aaa = new StudentGrades("aaa", 3);
         aaa.studentRecord();
     }  
