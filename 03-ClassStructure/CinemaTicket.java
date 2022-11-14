@@ -33,6 +33,8 @@ public class CinemaTicket {
     
 
     public static void main(String args[]){
+        cinemaName = "aaa";
+        
         CinemaTicket t1 = new CinemaTicket("Gladiator", 2, 5);
         CinemaTicket t2 = new CinemaTicket("Gladiator", 5, 10);
 

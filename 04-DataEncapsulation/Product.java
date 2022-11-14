@@ -34,10 +34,10 @@ public class Product {
 
         // Creating an apple object
         Product apple = new Product();
-
+        
         apple.setName("Apple");
         apple.setIsVegeterian(true);
-
+        
         // new line
         System.out.println();
 

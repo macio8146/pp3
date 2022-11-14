@@ -1,4 +1,4 @@
-public class Test {
+public class Test_1212 {
     public static void main(String[] args) {
     
         // creating driver d1

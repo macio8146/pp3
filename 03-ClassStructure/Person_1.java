@@ -1,4 +1,4 @@
-public class Person {
+public class Person_1 {
     //attributes
 
     String name;
@@ -36,12 +36,12 @@ public class Person {
 
     //construcotrs
 
-    Person(String name)
+    Person_1(String name)
     {
         this.name = name;
     }
 
-    Person(String name, int weight, int height)
+    Person_1(String name, int weight, int height)
     {
         this.name = name;
         weightKg = weight;
@@ -49,9 +49,9 @@ public class Person {
     }
 
     public static void main(String args[]){
-        Person p1 = new Person("Maciek", 86, 184);
-        Person p2 = new Person("Ania", 60, 163);
-        Person p3 = new Person("Piotr", 67, 178);
+        Person_1 p1 = new Person_1("Maciek", 86, 184);
+        Person_1 p2 = new Person_1("Ania", 60, 163);
+        Person_1 p3 = new Person_1("Piotr", 67, 178);
 
         p1.displayRecord();
         p2.displayRecord();

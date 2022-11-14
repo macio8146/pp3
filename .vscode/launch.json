@@ -6,6 +6,125 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Counter_2",
+            "request": "launch",
+            "mainClass": "Counter_2",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Abcd",
+            "request": "launch",
+            "mainClass": "Abcd",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch qqq",
+            "request": "launch",
+            "mainClass": "qqq",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch bbb",
+            "request": "launch",
+            "mainClass": "bbb",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch aaaaaaa",
+            "request": "launch",
+            "mainClass": "aaaaaaa",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch aaaa",
+            "request": "launch",
+            "mainClass": "aaaa",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch zadanie78",
+            "request": "launch",
+            "mainClass": "zadanie78",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch zadanie75",
+            "request": "launch",
+            "mainClass": "zadanie75",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch zadanie74",
+            "request": "launch",
+            "mainClass": "zadanie74",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arr",
+            "request": "launch",
+            "mainClass": "Arr",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Zadanie5",
+            "request": "launch",
+            "mainClass": "Zadanie5",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Zadanie2",
+            "request": "launch",
+            "mainClass": "Zadanie2",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Conjecture",
+            "request": "launch",
+            "mainClass": "Conjecture",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Testing2",
+            "request": "launch",
+            "mainClass": "Testing2",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Testing",
+            "request": "launch",
+            "mainClass": "Testing",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Echo",
+            "request": "launch",
+            "mainClass": "Echo",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
             "name": "Launch Product",
             "request": "launch",
             "mainClass": "Product",
