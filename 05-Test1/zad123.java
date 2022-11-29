@@ -1,4 +1,4 @@
-import java.util.Arrays;
+//import java.util.Arrays;
 
 public class zad123 {
     public static void main(String[] args) {
@@ -39,7 +39,7 @@ public class zad123 {
         }
 
 
-        int[] arka = {1, 2, 3};
-        int[] barka = Arrays.copyOf(arka, arka.length);  
+        //int[] arka = {1, 2, 3};
+        //int[] barka = Arrays.copyOf(arka, arka.length);  
     }
 }
