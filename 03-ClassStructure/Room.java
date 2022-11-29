@@ -121,7 +121,7 @@ public class Room {
 
         //d
         r1.checkin("Maciej Jastrzębski and Ania Stós");
-        r2.checkin("Ania Stós");
+        r2.checkin("Marcin Kobiałka");
         displayRoomsVacantOccupied(rooms);
         displayRoomsReport(rooms);
 

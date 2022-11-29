@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex14",
+            "request": "launch",
+            "mainClass": "Ex14",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch BankAccount",
+            "request": "launch",
+            "mainClass": "BankAccount",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
+            "name": "Launch zad123",
+            "request": "launch",
+            "mainClass": "zad123",
+            "projectName": "pp3_dfdb1eaa"
+        },
+        {
+            "type": "java",
             "name": "Launch Counter_2",
             "request": "launch",
             "mainClass": "Counter_2",

@@ -1,4 +1,4 @@
-public class bankAccount {
+public class bankAccount22 {
     
     //atributes
     String accountNum;
@@ -26,7 +26,7 @@ public class bankAccount {
     }
 
     public static void main(String args[]){
-        bankAccount acc1 = new bankAccount();
+        bankAccount22 acc1 = new bankAccount22();
         System.out.println();
 
         acc1.accountBalanceEUR = 848.98;
